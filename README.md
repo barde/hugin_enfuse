@@ -2,7 +2,7 @@
 
 ## Using Open Source and computing power to create "always sharp" pictures from macro shots
 
-###Howto
+### Howto
 
 * Create a directory called 'images' and put all your photos in TIF with naming IMG_{number}.tif
 * [Download Hugin](http://hugin.sourceforge.net/) for your OS
