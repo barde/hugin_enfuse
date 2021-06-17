@@ -1,10 +1,11 @@
 #!/bin/bash
 
-workDir='images'
+workDir='/Users/sampleuser/sampledir/'
 
 alignTool='/Applications/Hugin/tools_mac/align_image_stack'
 enfuseTool='/Applications/Hugin/tools_mac/enfuse'
 
+cd $workDir
 $alignTool -a align_ -m -v IMG*.tif
 
 
